@@ -38,5 +38,6 @@ The repository includes the exact `RARS.jar` file used, so you can run the progr
 1. Make sure you have Java installed on your system.
 2. Download or clone this repository.
 3. Launch the RARS simulator:
-   ```bash
+   ```
    java -jar RARS.jar
+   ```
